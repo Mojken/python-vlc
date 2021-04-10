@@ -62,7 +62,7 @@ number and the generator version number:
 
 vlc_major.vlc_minor.(1000 * vlc_micro + 100 * generator_major + generator_minor)
 
-so that it shared it major.minor with the corresponding VLC.
+so that it shares it's major.minor with the corresponding VLC.
 
 To generate the reference PyPI module (including setup.py, examples
 and metadata files), use
